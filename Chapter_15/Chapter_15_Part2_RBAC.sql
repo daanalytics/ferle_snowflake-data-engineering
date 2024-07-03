@@ -15,7 +15,7 @@ use role USERADMIN;
 
 -- create the access roles for full access and for read-only access
 create or replace role BAKERY_FULL;
-create or replace role BAKERY_READ;
+--create or replace role BAKERY_READ;
 
 -- create the functional roles
 create or replace role DATA_ENGINEER;
